@@ -1,1 +1,0 @@
-import"./entry.58c458cc.js";const _=""+globalThis.__publicAssetsURL("senior_main.png"),i=""+globalThis.__publicAssetsURL("mentoring_main.png"),n=""+globalThis.__publicAssetsURL("tmi_main.png"),o=""+globalThis.__publicAssetsURL("namak_main.png");export{_,i as a,n as b,o as c};
